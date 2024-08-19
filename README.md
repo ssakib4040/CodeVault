@@ -11,5 +11,7 @@ Welcome to my personal CodeVault! This repository serves as a collection of code
 ### React
 
 - **[React MobX Setup](/examples/reactjs/react-mobx/)**
-- **[React Hook Form](/examples/reactjs/react-hook-form/)**
+- **[React Hook Form Validation](/examples/reactjs/react-hook-form/react-hook-form-validation/)**
+- **[React Hook Form Variant](/examples/reactjs/react-hook-form/react-hook-form-variation/)**
 - **[React Firebase Todo](/examples/reactjs/react-firebase-todos/)**
+- **[React Auto Animate](/examples/reactjs/auto-animate/)**
